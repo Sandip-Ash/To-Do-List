@@ -9,11 +9,10 @@ try:
     con = mysql.connector.connect(host='localhost',
                                          database='ToDoPydb',
                                          user='root',
-                                         password='1843')
+                                         password='')#write the password if you had set during the installation else you are good to go👍😁
     if con.is_connected():
         db_Info = con.get_server_info()
-        # print("Successfully Connected to MySQL Server version", db_Info)
-        # print("\n")
+        
 except Error as e:
     print("Error while connecting to MySQL", e)
 
