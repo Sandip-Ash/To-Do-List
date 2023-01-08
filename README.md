@@ -5,7 +5,7 @@ Hello everyone, here's how you can build your own TO-DO-List using simple python
 
 <b>How to setup mysql:-</b>
 
-<code>Step 1:-</code> Download the <em>mysql-installer-community</em> version of Mysql form <a href="https://dev.mysql.com/downloads/installer/">here</a> or simply click <a href="https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.25.0.msi"><em>here</em></a> for direct download.
+<code>Step 1:-</code> Download the <em>mysql-installer-community</em> version of Mysql from <a href="https://dev.mysql.com/downloads/installer/">here</a> or simply click <a href="https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.25.0.msi"><em>here</em></a> for direct download.
 <br>
 <br>
 <code>Step 2:-</code> Install the downloaded file 
